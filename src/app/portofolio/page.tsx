@@ -19,7 +19,7 @@ import Education from "@/app/portofolio/education";
 import Skill from "@/app/portofolio/skill";
 import Footer from "@/app/portofolio/footer";
 
-const myPortofolio = () => {
+const MyPortofolio = () => {
     return (
         <>
             <div className='mx-auto w-full'>
@@ -179,4 +179,4 @@ const myPortofolio = () => {
     );
 };
 
-export default myPortofolio;
+export default MyPortofolio;
