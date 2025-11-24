@@ -109,11 +109,11 @@ const MyPortofolio = () => {
                             </p>
 
                             <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
-                                <a href="#"
+                                <a href="mailto:falahnaufal1@gmail.com"
                                    className="bg-blue-600 text-white font-medium px-8 py-3 rounded-lg shadow-lg hover:bg-blue-700 transition duration-300 transform hover:-translate-y-0.5">
                                     Email me &rarr;
                                 </a>
-                                <a href="#"
+                                <a href="/CV/Naufal_Falah_Wafiuddin_CV.pdf" download
                                    className="bg-white text-gray-800 font-medium px-8 py-3 rounded-lg shadow-md border border-gray-200 hover:bg-gray-50 transition duration-300 flex items-center justify-center">
                                     Download CV
                                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-2" fill="none"
