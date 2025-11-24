@@ -111,7 +111,7 @@ const MyPortofolio = () => {
                             <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
                                 <a href="#"
                                    className="bg-blue-600 text-white font-medium px-8 py-3 rounded-lg shadow-lg hover:bg-blue-700 transition duration-300 transform hover:-translate-y-0.5">
-                                    Book a Call &rarr;
+                                    Email me &rarr;
                                 </a>
                                 <a href="#"
                                    className="bg-white text-gray-800 font-medium px-8 py-3 rounded-lg shadow-md border border-gray-200 hover:bg-gray-50 transition duration-300 flex items-center justify-center">
@@ -153,21 +153,6 @@ const MyPortofolio = () => {
                         </div>
                     </div>
                 </main>
-                {/*<section className="py-16 md:py-24 border-t border-gray-100">*/}
-                {/*    <h3 className="text-center text-sm font-semibold text-gray-500 tracking-wider uppercase">*/}
-                {/*        Proud marketing partners with*/}
-                {/*    </h3>*/}
-
-                {/*    <div*/}
-                {/*        className="mt-12 grid grid-cols-3 sm:grid-cols-3 md:grid-cols-6 gap-x-8 gap-y-10 items-center filter grayscale opacity-60">*/}
-                {/*        <div className="text-center text-4xl font-bold text-gray-500">Google</div>*/}
-                {/*        <div className="text-center text-4xl font-bold text-gray-500">amazon</div>*/}
-                {/*        <div className="text-center text-4xl font-bold text-gray-500">Spotify</div>*/}
-                {/*        <div className="text-center text-4xl font-bold text-gray-500">airbnb</div>*/}
-                {/*        <div className="text-center text-4xl font-bold text-gray-500">INTROX</div>*/}
-                {/*        <div className="text-center text-4xl font-bold text-gray-500">NOXIS</div>*/}
-                {/*    </div>*/}
-                {/*</section>*/}
                 <About/>
                 <Education/>
                 <Experience/>
