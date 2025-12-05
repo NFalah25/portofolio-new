@@ -1,0 +1,21 @@
+{
+	"nav": {
+		"portfolio": "Portfolio",
+		"home": "Home",
+		"about": "About",
+		"qualify": "Qualification",
+		"experience": "Experience",
+		"project": "Project",
+		"skill": "Skill",
+		"contact": "Contact"
+	},
+
+	"hero" : {
+		"greeting" : "Hello Mate 👋",
+		"prefix_name" : "I'm",
+		"role" : "A Full Stack Developer",
+		"description" : "Hi, I'm Naufal, a full-stack developer passionate about building complete digital solutions. I turn complex problems into functional and beautiful applications, from backend logic to frontend design."
+	}
+
+
+}

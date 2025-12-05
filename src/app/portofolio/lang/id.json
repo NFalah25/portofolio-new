@@ -1,0 +1,19 @@
+{
+	"nav": {
+		"portfolio": "Portofolio",
+		"home": "Beranda",
+		"about": "Tentang",
+		"qualify": "Kualifikasi",
+		"experience": "Pengalaman",
+		"project": "Proyek",
+		"skill": "Keahlian",
+		"contact": "Kontak"
+	},
+
+	"hero" : {
+		"greeting" : "Halo Sobat 👋",
+		"prefix_name" : "Saya",
+		"role" : "Seorang Full Stack Developer",
+		"description" : "Hai, saya Naufal, seorang Full Stack Developer yang bersemangat membangun solusi digital lengkap. Saya mengubah masalah kompleks menjadi aplikasi yang fungsional dan indah, dari logika backend hingga desain frontend."
+	}
+}
